@@ -44,6 +44,12 @@ When I am not debugging or building projects, you can find me pounding the pavem
 
 ---
 
+### 📊 GitHub Stats
+
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PraveenGurjar23&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenGurjar23&layout=compact&theme=radical)
+
+---
 ### ⚡ Fun Fact
 > "Small minds discuss people; average minds discuss events; great minds discuss ideas." 
 > — *I structure my life, code, and running routes around this exact philosophy.*
