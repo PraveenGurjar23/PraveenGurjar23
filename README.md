@@ -1,5 +1,3 @@
-# About-Me
-I'm describing myself here.
 # Hi there, I'm Praveen Gurjar! 👋
 
 I am a passionate **Computer Science & Engineering (Specialization in Gaming Technology)** student at **VIT Bhopal University**. I love solving complex algorithmic challenges, building real-world utility software, and designing clean, efficient codebases. 
